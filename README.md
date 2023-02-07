@@ -33,11 +33,11 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 
 ---
 
-#### 🎯 GOALS IN 2022:
+#### 🎯 GOALS IN 2023:
 
 - Build something new to test my skills & knowledge
-- Improve knowledge on Amazon Web Services
-- Improve knowledge on Design patterns
+- Improve knowledge on Design Systems
+- Improve knowledge on Java
 ---
   
 

@@ -38,6 +38,7 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 - Build something new to test my skills & knowledge
 - Improve knowledge on Design Systems
 - Improve knowledge on Java
+- Improve knowledge on GoLang
 ---
   
 

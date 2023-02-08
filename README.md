@@ -49,7 +49,7 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 </div>
 
 <!--
-**mauriciotoledo10/mauriciotoledo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**toledomauricio/toledomauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

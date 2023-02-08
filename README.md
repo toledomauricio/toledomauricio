@@ -44,8 +44,8 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 
 <div align="center">
   <a href="https://github.com/toledomauricio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciotoledo10&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciotoledo10&layout=compact&langs_count=5&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toledomauricio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toledomauricio&layout=compact&langs_count=5&theme=highcontrast"/>
 </div>
 
 <!--

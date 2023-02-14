@@ -1,5 +1,4 @@
-<img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
-
+<!-- <img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" /> -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-o-toledo/)
 
 ---

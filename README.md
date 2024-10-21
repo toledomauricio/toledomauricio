@@ -3,9 +3,9 @@
 
 ---
 
-#### 👦 ABOUT ME
+#### 👦🏻 ABOUT ME
 
-I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and freelance **Full Stack Developer** based in Brazil, São Paulo. I always try to compete with the world, which makes me a better person than I am yesterday.
+I'm **Mauricio Toledo**. I'm a **Software Engineer** based in Brazil, São Paulo. I always try to compete with the world, which makes me a better person than I am yesterday.
 
 "If you learned something new today, you are better than yesterday."
 
@@ -16,11 +16,7 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
@@ -32,12 +28,12 @@ I'm **Mauricio Toledo**. I'm a full time **Software & DevOps Engineer** and free
 
 ---
 
-#### 🎯 GOALS IN 2023:
+#### 🎯 GOALS IN 2025:
 
 - Build something new to test my skills & knowledge
 - Improve knowledge on Design Systems
-- Improve knowledge on Java
-- Improve knowledge on GoLang
+- Improve knowledge on PHP
+- Improve knowledge on Design Architeture
 ---
   
 

@@ -1,4 +1,4 @@
-<img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="1024" height="400" />
+<img alt="img" src="./profile.png" width="400" height="400" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toledomauricio)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-o-toledo/)

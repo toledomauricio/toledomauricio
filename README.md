@@ -1,6 +1,6 @@
 <img alt="img" src="./profile.png" width="400" height="400" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=toledomauricio&style=for-the-badge&color=grey&label=views)
+![Profile Views](https://komarev.com/ghpvc/?username=toledomauricio&style=for-the-badge&color=grey&label=views%20in%2031%2F12%2F2025%3A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-o-toledo/)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ---
